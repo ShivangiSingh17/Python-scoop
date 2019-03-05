@@ -1,4 +1,5 @@
- ![alt text](https://img.shields.io/badge/python-tasks-blue.svg)
+ ![alt text](https://img.shields.io/badge/python-tasks-blue.svg)        
+ ![alt text](https://img.shields.io/badge/python__version-2.7.12-brightgreen.svg)
  
  Hello :wave:
  
